@@ -100,6 +100,13 @@ page = browser.new_page()
 
 ```
 
+Another tip: use the `page.wait_for_timeout()` function to pause the execution of your scripts. Slowing everything down a bit helps avoid detection.
+
+```python
+# sleep for 3 seconds (3000 milliseconds)
+page.wait_for_timeout(3000)
+```
+
 ## Finding Elements Without CSS
 
 Sometimes it can be difficult to figure out the css selector for an element you're looking for. Playwright has a number of functions beyond `locator` to find elements based on other parameters, like the "role" they play on the page, or label text or placeholder text for form fields.
@@ -208,9 +215,79 @@ For the full code see `scrape_images.py` in the examples folder.
 
 ## Saving Data
 
-- subqueries
-- json
-- csv
+Let's imagine the following scenario: a news website that lists article titles, author names, and user comments. The html might look something like this:
+
+```html
+<div class="articles">
+  <div class="article">
+    <h2 class="title">Article title</h2>
+    <div class="author">Author Name</div>
+    <div class="comments">10 comments</div>
+  </div>
+
+  <div class="article">
+    <h2 class="title">Article title 2</h2>
+    <div class="author">Another Author</div>
+    <div class="comments">4 comments</div>
+  </div>
+</div>
+```
+
+We'd like to extract all the info we have for each article (title, author, total comments). In order to do this we can use a `page.locator()` looking for `divs` with `.article` class names, and then we can use locators on those elements to extract the individual data points:
+
+```python
+articles = page.locator(".article").all()
+
+for article in articles:
+  title = article.locator('.title').inner_text()
+  author = article.locator('.author').inner_text()
+  comments = article.locator('.comments').inner_text()
+```
+
+Next we need to find a good way to store this data. Let's make an empty list, and then use a python dictionary for each item.
+
+```python
+
+output = []
+
+articles = page.locator(".article").all()
+
+for article in articles:
+  title = article.locator('.title').inner_text()
+  author = article.locator('.author').inner_text()
+  comments = article.locator('.comments').inner_text()
+
+  item = {
+    'title': title,
+    'author': author,
+    'comments': comments
+  }
+
+  output.append(item)
+```
+
+You can then save the `output` list as either a json or csv file.
+
+JSON:
+
+```python
+import json
+
+with open("articles.json", "w") as outfile:
+  json.dump(output, outfile, indent=2)
+```
+
+CSV:
+
+```python
+import csv
+
+with open("articles.csv", "w") as outfile:
+  fieldnames = list(data[0].keys())
+  writer = csv.DictWriter(outfile, fieldnames=fieldnames)
+  writer.writeheader()
+  writer.writerows(data)
+```
 
 ## Advanced: Duplicating Network Requests
 
