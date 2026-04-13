@@ -6,8 +6,29 @@ In this workshop students will learn how to find what or who they are looking fo
 
 ## Schedule
 
-- to come
+### Day 1 (1-6pm)
+
+- Intros
+- Code of conduct
+- Maura
+  - ??
+  - ??
+- Sam
+  - VERY brief intro to the command line
+  - VERY brief intro to Python
+  - Intro to HTML/CSS
+  - Scraping text
+  - Scraping images
+- Assignment
+
+### Day 2 (1-4pm)
+
+- Maura
+  - ???
+- Sam
+  - Scraping video
+- Show & tell
 
 ## References and Readings
 
-- to come
+- To come
