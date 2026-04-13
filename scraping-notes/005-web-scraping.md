@@ -177,8 +177,34 @@ playwright.stop()
 
 So far we've just copied text content, using the `inner_text()` function.
 
-- looking at attributes
-- adding a 'download function'
+However, information about images are not stored as the inner text of elements, but inside the `src` attribute of the `img` tag.
+
+```html
+<img src="https://somewebsite.com/image.jpg" />
+```
+
+To download images, we need to extract these `src` attributes and then pass the urls of images to a download function. You can use the `get_attribute()` function on an element to extract the images' url.
+
+Here's an example that downloads all images from a page:
+
+```python
+
+def download(url):
+    local_filename = url.split("/")[-1]
+    with requests.get(url, stream=True) as r:
+        r.raise_for_status()
+        with open(local_filename, "wb") as f:
+            for chunk in r.iter_content(chunk_size=8192):
+                f.write(chunk)
+
+img_elements = page.locator("img").all()
+for img in img_elements:
+  src = img.get_attribute("src")
+  download(src)
+
+```
+
+For the full code see `scrape_images.py` in the examples folder.
 
 ## Saving Data
 
