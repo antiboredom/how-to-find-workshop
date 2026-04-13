@@ -94,6 +94,7 @@ from playwright.sync_api import sync_playwright
 
 playwright = sync_playwright().start()
 
+# note that it says "firefox" down here instead of "chromium"!
 browser = playwright.firefox.launch(headless=False)
 page = browser.new_page()
 
@@ -136,16 +137,54 @@ Here's an example of clicking on a button with the text "Next" in it:
 page.get_by_text("Next").click()
 ```
 
+In order to download paginated content you need to create a loop. Here's a simple way to do so, which grabs amazon product titles as an example:
+
+(quick note: I'm using `page.wait_for_timeout()` here which pauses things in milliseconds, to help avoid bot detection)
+
+```python
+from playwright.sync_api import sync_playwright
+playwright = sync_playwright().start()
+browser = playwright.firefox.launch(headless=False)
+
+page = browser.new_page()
+page.goto("https://amazon.com")
+page.wait_for_timeout(1000)
+
+page.get_by_role("searchbox").fill("A consumer product")
+page.get_by_role("searchbox").press("Enter")
+
+current_page = 1
+
+# get the first 10 pages of results
+while current_page < 10:
+  page.wait_for_timeout(2000)
+
+  items = page.locator("a h2").all()
+
+  for item in items:
+    print(c.inner_text())
+
+  page.get_by_text("Next").click()
+
+  current_page += 1
+
+browser.close()
+playwright.stop()
+
+```
+
+## Saving Images
+
+So far we've just copied text content, using the `inner_text()` function.
+
+- looking at attributes
+- adding a 'download function'
+
 ## Saving Data
 
 - subqueries
 - json
 - csv
-
-## Saving Images
-
-- looking at attributes
-- adding a 'download function'
 
 ## Advanced: Duplicating Network Requests
 
