@@ -18,7 +18,7 @@ or for Windows:
 powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | iex"
 ```
 
-I suggest downloading this entire git repository as a folder, then unzipping it, and opening `scraping-examples` in Visual Studio Code.
+I suggest [downloading this entire git repository](https://github.com/antiboredom/how-to-find-workshop/archive/refs/heads/main.zip) as a folder, then unzipping it, and opening `scraping-examples` in Visual Studio Code.
 
 Then, open Visual Studio Code's built-in terminal, by going to the `Terminal` menu and selecting `New Terminal`.
 
