@@ -107,8 +107,8 @@ LITIGATION
 JUDGMENTS AND LIENS  
 	Filing No.:  
 	Creditor:  
-	Debtor:             
-	Filing Date:  
+	Debtor:  
+	Filing Date:    
 	Location Filed:  
 	Amount:  
 	Status:  
