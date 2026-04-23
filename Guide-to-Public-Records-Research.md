@@ -1,7 +1,7 @@
 ### Public Records Research
 
 #### Biographical Information 
-Establish basic biographical information using Whitepages.com or Spokeo.com, and Ancestry.com for DOBs, addresses and marriage records.
+Establish basic biographical information using [Whitepages.com ](https://www.whitepages.com/) or [Spokeo.com](https://www.spokeo.com/), and [Ancestry.com](https://www.ancestry.com/) for DOBs, addresses and marriage records.
 
 Name:  
 Age / DOB:  
@@ -17,62 +17,67 @@ You may also want to identify the social media profiles of spouses and children,
 For the purposes of this workshop, please do not create fake profiles and friend people with private accounts. Let’s keep to the public realm.
 
 LinkedIn: (use this to glean educational information and additional jurisdictions based on where your subject attended school and worked)
-Facebook: (sometimes lists relatives and DOBs)
-Instagram:
-X:
-YouTube:
-TikTok:
-Reddit:
-Etc:
+Facebook: (sometimes lists relatives and DOBs)  
+Instagram:  
+X:  
+YouTube:  
+TikTok:  
+Reddit:  
+Etc:  
+
 #### Litigation
 Litigation is divided into either criminal or civil, and federal or state (including county and municipal courts.) The federal court system is very easy to navigate; there is one portal called PACER. State-level courts vary wildly. Once you determine a list of places that your subject has lived, it is helpful to refer to BRB Publications to determine which courts need to be searched: [https://www.brbpublications.com/free-resources/public-record-sites](https://www.brbpublications.com/free-resources/public-record-sites)
 
 BRB will include links to local courts, but it is important to know that these links are often out of date, and so it is best practice to Google “San Diego Superior Court case search” to make sure that you are using the correct portal.
 
 Most of the time, you will be able to search online for free. However, some states still require onsite search to perform case searches. You can hire a variety of court runners for you. The gold standard, most expensive court runner is Renata Cardoza at Premier Due Diligence – she will cost you around $250 per jurisdiction, but she can go anywhere in the country and will get you quick results. [https://premierduediligence.com/](https://premierduediligence.com/)
-##### Federal
+
+**Federal**  
 PACER: [https://pacer.uscourts.gov/find-case/search-national-index](https://pacer.uscourts.gov/find-case/search-national-index)
 US Tax Court: [https://dawson.ustaxcourt.gov/](https://dawson.ustaxcourt.gov/)
 National Sex Offender Registry (these also exist at the state level): [https://www.nsopw.gov/](https://www.nsopw.gov/)
-##### State
+
+**State**  
 Two examples of common state-level jurisdictions are below: California and New York. The California system is very easy to navigate. Each county has one court, the Superior Court. So, for example, the Los Angeles County court system is the Los Angeles Superior Court. New York is more complex - it has Supreme Courts, Civil Courts, City Courts and District Courts, depending on your jurisdiction. New York City, in particular, has multiple search portals that show overlapping information. The State of New York offers an expensive, state level criminal search; otherwise, criminal records are not available in the free portals.
 
 When in doubt, don’t be afraid to call the court clerk and inquire!
 
-_Los Angeles County, California_
-Los Angeles Supreme Court: [https://www.lacourt.ca.gov/pages/lp/access-a-case/tp/find-case-information](https://www.lacourt.ca.gov/pages/lp/access-a-case/tp/find-case-information)
+_Los Angeles County, California_  
+Los Angeles Supreme Court: [https://www.lacourt.ca.gov/pages/lp/access-a-case/tp/find-case-information](https://www.lacourt.ca.gov/pages/lp/access-a-case/tp/find-case-information)  
 
-_New York County, New York_
-Supreme Court: [https://iapps.courts.state.ny.us/webcivil/FCASMain](https://iapps.courts.state.ny.us/webcivil/FCASMain)
-Civil Court: [https://iapps.courts.state.ny.us/webcivilLocal/LCMain](https://iapps.courts.state.ny.us/webcivilLocal/LCMain)
-Additional portals:
-[https://iapps.courts.state.ny.us/nyscef/CaseSearch](https://iapps.courts.state.ny.us/nyscef/CaseSearch)
-[https://iapps.courts.state.ny.us/iscroll/IScrollRecaptcha](https://iapps.courts.state.ny.us/iscroll/IScrollRecaptcha)
-New York Criminal (state-level): [https://iapps.courts.state.ny.us/chrs/SignInPage](https://iapps.courts.state.ny.us/chrs/SignInPage)
+_New York County, New York_  
+Supreme Court: [https://iapps.courts.state.ny.us/webcivil/FCASMain](https://iapps.courts.state.ny.us/webcivil/FCASMain)  
+Civil Court: [https://iapps.courts.state.ny.us/webcivilLocal/LCMain](https://iapps.courts.state.ny.us/webcivilLocal/LCMain)  
+Additional portals:  
+[https://iapps.courts.state.ny.us/nyscef/CaseSearch](https://iapps.courts.state.ny.us/nyscef/CaseSearch)  
+[https://iapps.courts.state.ny.us/iscroll/IScrollRecaptcha](https://iapps.courts.state.ny.us/iscroll/IScrollRecaptcha)  
+New York Criminal (state-level): [https://iapps.courts.state.ny.us/chrs/SignInPage](https://iapps.courts.state.ny.us/chrs/SignInPage)  
 
-Tips for litigation research: You may find that your subject is named in many lawsuits, and you might not want to pay to look at all of them. How do I figure out which lawsuit is likely to be interesting, and which ones might be “course of business,” aka boring?
--
+**Tips for litigation research:**   
+You may find that your subject is named in many lawsuits, and you might not want to pay to look at all of them. How do I figure out which lawsuit is likely to be interesting, and which ones might be “course of business,” aka boring?
+
 First, ask yourself, is my subject the plaintiff or the defendant? If they are the plaintiff, that means they are filing a lawsuit against someone else, and it is less likely to be interesting (unless there is a cross-claim against them). If they are a defendant, that will be a more interesting case because someone is making a (potentially damaging) allegation against your subject. Another question – did they settle the lawsuit? You can usually tell that a lawsuit has been settled if the disposition is listed as “dismissed with prejudice” – “with prejudice” means that the lawsuit cannot be refiled, which is usually a stipulation of a settlement. If a lawsuit was quickly settled by your subject, this means that it may have contained damaging allegations against them.
 
-**Types of cases we are definitely interested in:**
-Bankruptcies
-Divorces
-Employment discrimination
-Restraining order petitions
-Anything criminal
+**Types of cases we are definitely interested in:**  
+Bankruptcies  
+Divorces  
+Employment discrimination  
+Restraining order petitions  
+Anything criminal  
 
-**Types of cases we might be interested in:**
-Breach of contract
-Unlawful detainer
+**Types of cases we might be interested in:**  
+Breach of contract  
+Unlawful detainer  
 
-**Types of cases we are less interested in:**
-Slip and fall
-Probate
-Traffic (but take a glance, because sometimes DUIs are classified under traffic)
-Shareholder lawsuits
-Personal injury / auto
+**Types of cases we are less interested in:**  
+Slip and fall  
+Probate  
+Traffic (but take a glance, because sometimes DUIs are classified under traffic)  
+Shareholder lawsuits  
+Personal injury / auto  
 
 Once we decide to look at a lawsuit, do we need to download the whole thing? No! Only download the relevant filings. Typically, this is the complaint, but also look out for any cross claims, or amended complaints. I’ve seen cases where the initial complaint is boring, and then the case drags on and the plaintiff submits a third or fourth amended complaint that contains really damaging information, in a bid to get a settlement. If there are multiple complaints, it’s good to look at the last one. Answers are usually pro-forma responses to the complaint, and are often less interesting. Sometimes you might find declarations or other filings that include numerous exhibits. If the complaint is very interesting it might be fruitful to look at some of these, although this can be expensive, depending on the portal. It may be useful to download the judgment, which will sometimes specify if a settlement was reached. If the court has issued an opinion, I would definitely look at that.
+
 #### Educational Background, Professional History and Corporate Affiliations
 Establish a timeline for the major business activities and corporate affiliations of your subject. If your subject has a LinkedIn profile, start there. Google your subject (also use DuckDuckGo, which has different results) using their name variations, and in different combinations with their companies and family members. Stay organized, put their life into chronological order and include footnotes.
 
@@ -103,21 +108,22 @@ Places to search for professional histories:
 
 As you conduct your research, make a list of any corporations your subject has founded or seems to be affiliated with. You can search the Secretary of State’s website for these corporations, and usually download the filings for free. If your subject is listed, we can note who else is named on the corporate records. In New York and California, you have to do these searches using company names. In Florida, you can do name searches for directors and officers, address searches, etc. Florida is very transparent!
 
-New York business search: [https://apps.dos.ny.gov/publicInquiry/](https://apps.dos.ny.gov/publicInquiry/)
-California business search: [https://bizfileonline.sos.ca.gov/search/business](https://bizfileonline.sos.ca.gov/search/business)
-Delaware business search (corporate records in Delaware contain very little information): [https://icis.corp.delaware.gov/ecorp/entitysearch/namesearch.aspx](https://icis.corp.delaware.gov/ecorp/entitysearch/namesearch.aspx)
-Florida business search: [https://dos.fl.gov/sunbiz/search/](https://dos.fl.gov/sunbiz/search/)
+New York business search: [https://apps.dos.ny.gov/publicInquiry/](https://apps.dos.ny.gov/publicInquiry/)  
+California business search: [https://bizfileonline.sos.ca.gov/search/business](https://bizfileonline.sos.ca.gov/search/business)  
+Delaware business search (corporate records in Delaware contain very little information): [https://icis.corp.delaware.gov/ecorp/entitysearch/namesearch.aspx](https://icis.corp.delaware.gov/ecorp/entitysearch/namesearch.aspx)  
+Florida business search: [https://dos.fl.gov/sunbiz/search/](https://dos.fl.gov/sunbiz/search/)  
 
 Don’t forget to keep going back as you uncover additional information. For example, lawsuits might reveal the names of corporations. You can plug the name of the newly discovered corporation into the Secretary of State databases, look for SEC filings, and Google your subject with the name of the company. Likewise (although this can quickly become sprawling) you can search each corporate affiliation for lawsuits at the state and federal levels.
+
 #### UCC filings & County Clerk / Recorder Records
 Uniform Commercial Code filings, or UCC filings, are my favorite public record. These documents, filed with the Secretary of State (or, more rarely, with the County Clerk / Recorder), document a debt relationship between two parties. They are generally used to establish a legal claim over collateral. For example, if I lend Sam a bunch of money, I could file a UCC stating that I am the lender (the “secured party”), Sam is the debtor, and lists his many valuable assets as my collateral. That way, when Sam invariably defaults, I can take my UCC filing to a judge and claim his possessions. UCCs are powerful because they reveal financial relationships between parties and they also provide lists of assets owned by the debtor – so you can get a little window into their holdings. UCCs can be filed on behalf of individuals or corporations. They expire after five years.
 
-New York UCC database: [https://ucc-efiling.dos.ny.gov/](https://ucc-efiling.dos.ny.gov/)
-California UCC database: [https://bizfileonline.sos.ca.gov/search/ucc](https://bizfileonline.sos.ca.gov/search/ucc)
+New York UCC database: [https://ucc-efiling.dos.ny.gov/](https://ucc-efiling.dos.ny.gov/)  
+California UCC database: [https://bizfileonline.sos.ca.gov/search/ucc](https://bizfileonline.sos.ca.gov/search/ucc)  
 
 At the county level, you can do additional searches through the Clerk/Recorder’s website. BRB provides a good overview of the various Clerk/Recorders in different counties, which sometimes go by different names. The Clerk/Recorder will give you access to judgments, tax liens and property records, among other documents.
 
-Los Angeles (Because LA is a little tricky, I use this third-party website): [https://datastore.netronline.com/losangeles](https://datastore.netronline.com/losangeles)
+Los Angeles (Because LA is a little tricky, I use this third-party website): [https://datastore.netronline.com/losangeles](https://datastore.netronline.com/losangeles)  
 New York: [https://a836-acris.nyc.gov/CP/CoverPage/MainMenu](https://a836-acris.nyc.gov/CP/CoverPage/MainMenu)
 
 List out any judgments or liens. Also, make note of any other interesting documents – power of attorney docs can be found here, for example.
