@@ -51,51 +51,51 @@
 - [ ] idiCORE
 
 ### Background Template
-BIOGRAPHICAL INFORMATION
-Family Information
-Political Affiliations
+BIOGRAPHICAL INFORMATION  
+Family Information  
+Political Affiliations  
 
 DRIVING RECORD
 
-SOCIAL MEDIA PROFILE
-LinkedIn
-Facebook
-Twitter
-Instagram
-Reddit
-TikTok
-Clubhouse
-Github
-Venmo
-Pinterest
-Myspace
-YouTube
-Threads
-Vimeo
-Strava
-Yelp
-Trip Advisor
-Snapchat
-Truth Social
-Tumblr
+SOCIAL MEDIA PROFILE  
+LinkedIn  
+Facebook  
+Twitter  
+Instagram  
+Reddit  
+TikTok  
+Clubhouse  
+Github  
+Venmo  
+Pinterest  
+Myspace  
+YouTube  
+Threads  
+Vimeo  
+Strava  
+Yelp  
+Trip Advisor  
+Snapchat  
+Truth Social  
+Tumblr  
 
-EDUCATION
-*Degree 1 (date - date)*
+EDUCATION  
+*Degree 1 (date - date)*  
 	Dates of attendance and degree 
 
-PROFESSIONAL HISTORY
-*Employer 1 (date - date)*
+PROFESSIONAL HISTORY  
+*Employer 1 (date - date)*  
 	Dates of employment and role
 
 PROFESSIONAL LICENSES
 
-CORPORATE AFFILIATIONS
+CORPORATE AFFILIATIONS  
 	*Downstream Intelligence LLC* was formed in New York on XXXXX date. Its status is X. Maura Brewer is the registered agent and officer, Sam Lavigne is the officer. 
 
-BANKRUPTCY FILINGS
+BANKRUPTCY FILINGS  
 
-LITIGATION 
-*Federal*
+LITIGATION  
+*Federal*  
 - Criminal
 - Civil
 	*John Doe v. Maura Brewer*, Case No. XYZTSF1234, filed in Los Angeles Superior Court on September 11, 2001. This unlawful detainer case was dismissed with prejudice on November 22, 2002. 
@@ -104,31 +104,30 @@ LITIGATION 
 - Criminal
 - Civil 
 
-JUDGMENTS AND LIENS
-	Filing No.:
-	Creditor:
-	Debtor:           
-	Filing Date:
-	Location Filed:
-	Amount:
-	Status:
+JUDGMENTS AND LIENS  
+	Filing No.:  
+	Creditor:  
+	Debtor:             
+	Filing Date:  
+	Location Filed:  
+	Amount:  
+	Status:  
 
-UCC FILINGS
-	Debtor:
-	Secured Party:
-	Jurisdiction:
-	Filing No.:
-	Filing Date:
-	Status:
-	Collateral:       
+UCC FILINGS  
+	Debtor:  
+	Secured Party:  
+	Jurisdiction:  
+	Filing No.:  
+	Filing Date:  
+	Status:  
+	Collateral:         
 
-REAL PROPERTY
-*Address 1 (date - date)*
+REAL PROPERTY  
+*Address 1 (date - date)*  
 	Mortgage information and other loans
 
 *Address 2 (date - date)*
 
-WATCHLISTS
 
 REGULATORY AND DISCIPLINARY ACTIONS
 
