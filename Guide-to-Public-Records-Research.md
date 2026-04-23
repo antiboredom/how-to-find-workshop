@@ -20,6 +20,7 @@ LinkedIn: (use this to glean educational information and additional jurisdiction
 Facebook: (sometimes lists relatives and DOBs)  
 Instagram:  
 X:  
+Venmo: (very important - you can basically find people's entire contact lists)  
 YouTube:  
 TikTok:  
 Reddit:  
