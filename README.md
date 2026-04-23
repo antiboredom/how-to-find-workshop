@@ -11,8 +11,12 @@ In this workshop students will learn how to find what or who they are looking fo
 - Intros
 - Code of conduct
 - Maura
-  - ??
-  - ??
+  - Intro to public records
+  - Social media
+  - Litigation
+  - Education / professional history / corporate affiliations
+  - UCC filings / judgments / liens / real property
+  - Political affilaitions and additional portals
 - Sam
   - VERY brief intro to the command line
   - VERY brief intro to Python
@@ -24,11 +28,14 @@ In this workshop students will learn how to find what or who they are looking fo
 ### Day 2 (1-4pm)
 
 - Maura
-  - ???
+  - How to find someone with a very common name
+  - Complex social media research 
 - Sam
   - Scraping video
 - Show & tell
 
 ## References and Readings
+
+- _The Manual to Online Public Records_, Sankey & Hetherington, 2017 *out of date but still very useful 
 
 - To come
