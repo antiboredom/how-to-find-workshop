@@ -3,11 +3,12 @@
 #### Biographical Information 
 Establish basic biographical information using Whitepages.com or Spokeo.com, and Ancestry.com for DOBs, addresses and marriage records.
 
-Name:
-Age / DOB:
-Addresses:
-Emails / phone numbers:
-Family members:
+Name:  
+Age / DOB:  
+Addresses:  
+Emails / phone numbers:  
+Family members:  
+
 #### Social Media 
 Every piece of information builds to the next – for example, you might use handles from email addresses identified in Whitepages or Spokeo to identify social media profiles. As you search in more places and uncover additional information, go back to the previous categories and expand your search.
 
