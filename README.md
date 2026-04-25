@@ -16,7 +16,7 @@ In this workshop students will learn how to find what or who they are looking fo
   - Litigation
   - Education / professional history / corporate affiliations
   - UCC filings / judgments / liens / real property
-  - Political affilaitions and additional portals
+  - Political affiliations and additional portals
 - Sam
   - VERY brief intro to the command line
   - VERY brief intro to Python
