@@ -9,7 +9,7 @@
 `yt-dlp` is written in Python. To install it with uv run:
 
 ```
-uv tool install yt-dlp
+uv tool install yt-dlp --with yt-dlp-ejs
 ```
 
 ## Basic usage
