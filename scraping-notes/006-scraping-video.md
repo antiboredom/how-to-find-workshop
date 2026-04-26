@@ -12,6 +12,12 @@
 uv tool install yt-dlp --with yt-dlp-ejs
 ```
 
+Note: you may need to ALSO install the following dependencies:
+
+- [Homebrew](https://brew.sh/)
+  - ffmpeg: `brew install ffmpeg`
+- [Deno](https://docs.deno.com/runtime/getting_started/installation/)
+
 ## Basic usage
 
 To download a video, just type `yt-dlp` and the URL of the video you want. This will work for YouTube, Vimeo, Twitter and _hundreds_ of other websites. For example, if we want to download some highlights from the nightmarish Metaverse announcement video, it's as easy as:
